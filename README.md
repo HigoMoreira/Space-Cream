@@ -32,7 +32,7 @@ Para conferir o projeto, acesse:
 
 [![bio](https://img.shields.io/badge/bio_higomoreiraq-8A9AAF?style=for-the-badge&logo=ko-fi&logoColor=white)](https://higomoreiraq.github.io/Bio-Higo-Moreira/)
 
-## Screenshots mobile
+## Screenshots - mobile
 
 ![image](https://user-images.githubusercontent.com/107502907/180868147-eeaa49a8-038c-4a0f-916d-38e6beb0cd61.png)
 ![image](https://user-images.githubusercontent.com/107502907/180868186-0baea4d0-49f2-472d-8bd1-808bfa14890a.png)
